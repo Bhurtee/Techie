@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.mv {
+    position: relative;
+    right: 220px;
+}
+input {
+    padding-left: 50px;
+}
+.entire {
+    width: 30%;
+    margin: auto;
+    margin-top: 15rem;
+}
